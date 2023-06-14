@@ -1,0 +1,278 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maxhorror.com" resolutions="1x" timestamp="1686781894018">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_f-p_g_-maestra.css" crc="4252948347" ref="5-personajes-de-terror"/>
+    <file name="master_i-p_g_-maestra.css" crc="443484568" ref="personaje-5-y-frases"/>
+    <file name="master_g-p_g_-maestra.css" crc="269239590" ref="personaje-1-y-2"/>
+    <file name="master_j-p_g_-maestra.css" crc="184968040" ref="contraportada"/>
+    <file name="master_h-p_g_-maestra.css" crc="3798857328" ref="personaje-3-y-4"/>
+    <file name="master_b-p_g_-maestra.css" crc="46659862" ref="indice"/>
+    <file name="master_d-p_g_-maestra.css" crc="4213688327" ref="pelicula-1-2"/>
+    <file name="master_e-p_g_-maestra.css" crc="454669982" ref="películas-3-5"/>
+    <file name="master_a-p_g_-maestra.css" crc="4048894829" ref="index"/>
+    <file name="master_c-p_g_-maestra.css" crc="3765057167" ref="5-películas-de-terror"/>
+    <file name="personaje-5-y-frases.css" crc="4252673308" ref="personaje-5-y-frases"/>
+    <file name="indice.css" crc="3858655106" ref="indice"/>
+    <file name="contraportada.css" crc="3908207764" ref="contraportada"/>
+    <file name="pel_culas-3-5.css" crc="279145497" ref="películas-3-5"/>
+    <file name="pelicula-1-2.css" crc="3943004131" ref="pelicula-1-2"/>
+    <file name="personaje-1-y-2.css" crc="145464835" ref="personaje-1-y-2"/>
+    <file name="index.css" crc="72174400" ref="index"/>
+    <file name="5-pel_culas-de-terror.css" crc="4201559351" ref="5-películas-de-terror"/>
+    <file name="5-personajes-de-terror.css" crc="104937486" ref="5-personajes-de-terror"/>
+    <file name="personaje-3-y-4.css" crc="246730827" ref="personaje-3-y-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="--mt---graphics---social-icons-(11.1).mulib" crc="4017910399" seo="true" mt="1686686737000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="museutils.js" crc="3803043152" ref="index:5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="whatinput.js" crc="86476730" ref="index:5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="museconfig.js" crc="380897831" ref="index:5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="require.js" crc="4157109226" ref="index:5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="webpro.js" crc="242022427" ref="pelicula-1-2:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="pelicula-1-2:películas-3-5"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="pelicula-1-2:películas-3-5"/>
+    <file name="touchswipe.js" crc="4066113679" ref="pelicula-1-2:películas-3-5"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="indice:personaje-5-y-frases"/>
+  </folder>
+  <folder name="images">
+    <file name="u207-4.png" crc="3782623054" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:pelicula-1-2:personaje-1-y-2:personaje-3-y-4:contraportada:indice:películas-3-5:personaje-5-y-frases"/>
+    <file name="u360_states.png" crc="54424320" ref="index"/>
+    <file name="u360_states-r.png" crc="4254812677" ref="index"/>
+    <file name="10.png" crc="4276058141" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huella12@4x.png" crc="227764651" ref="5-películas-de-terror:5-personajes-de-terror:personaje-5-y-frases">
+      <caption webpage="personaje-5-y-frases" alt=""/>
+      <caption webpage="5-películas-de-terror" alt=""/>
+      <caption webpage="5-personajes-de-terror" alt=""/>
+    </file>
+    <file name="huella22@4x.png" crc="4178040715" ref="5-películas-de-terror:5-personajes-de-terror:personaje-5-y-frases">
+      <caption webpage="personaje-5-y-frases" alt=""/>
+      <caption webpage="5-películas-de-terror" alt=""/>
+      <caption webpage="5-personajes-de-terror" alt=""/>
+    </file>
+    <file name="flecha-señal-izquirda.png" crc="103515271" ref="5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-3-y-4:películas-3-5:personaje-5-y-frases">
+      <caption webpage="pelicula-1-2" alt=""/>
+      <caption webpage="personaje-5-y-frases" alt=""/>
+      <caption webpage="5-películas-de-terror" alt=""/>
+      <caption webpage="personaje-3-y-4" alt=""/>
+      <caption webpage="películas-3-5" alt=""/>
+      <caption webpage="5-personajes-de-terror" alt=""/>
+    </file>
+    <file name="grande-izquierda.png" crc="284639233" ref="5-películas-de-terror:pelicula-1-2:5-personajes-de-terror:personaje-1-y-2:personaje-3-y-4:contraportada:películas-3-5:personaje-5-y-frases">
+      <caption webpage="personaje-1-y-2" alt=""/>
+      <caption webpage="personaje-3-y-4" alt=""/>
+      <caption webpage="películas-3-5" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+      <caption webpage="personaje-5-y-frases" alt=""/>
+      <caption webpage="contraportada" alt=""/>
+      <caption webpage="5-películas-de-terror" alt=""/>
+      <caption webpage="5-personajes-de-terror" alt=""/>
+    </file>
+    <file name="5mejorespeliculasdeterror20-100.jpg" crc="3919166351" ref="5-películas-de-terror">
+      <caption webpage="5-películas-de-terror" alt=""/>
+    </file>
+    <file name="insidious_portada.jpg" crc="54019540" seo="true" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="sinopsis10.png" crc="310223762" seo="true" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="frace10.png" crc="50319066" seo="true" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="pelicula10.png" crc="379238732" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="pelicula-1-2:películas-3-5"/>
+    <file name="pelicula20.jpg" crc="205015557" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="sinopsis20.png" crc="358095498" seo="true" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="frase20.png" crc="4010620970" seo="true" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="flecha-señal-derecha.png" crc="4288173159" ref="pelicula-1-2:personaje-3-y-4:personaje-5-y-frases">
+      <caption webpage="personaje-5-y-frases" alt=""/>
+      <caption webpage="personaje-3-y-4" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="grande-derecha.png" crc="4184165936" ref="pelicula-1-2:personaje-1-y-2:personaje-3-y-4:personaje-5-y-frases">
+      <caption webpage="personaje-1-y-2" alt=""/>
+      <caption webpage="personaje-5-y-frases" alt=""/>
+      <caption webpage="personaje-3-y-4" alt=""/>
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="peliculas22-22-100.jpg" crc="3990602803" ref="pelicula-1-2">
+      <caption webpage="pelicula-1-2" alt=""/>
+    </file>
+    <file name="5pjs20-100.jpg" crc="4002922368" ref="5-personajes-de-terror">
+      <caption webpage="5-personajes-de-terror" alt=""/>
+    </file>
+    <file name="u3147-4.png" crc="308063654" ref="personaje-1-y-2"/>
+    <file name="p_jasoon.png" crc="143062284" ref="personaje-1-y-2">
+      <caption webpage="personaje-1-y-2" alt=""/>
+    </file>
+    <file name="u3221-4.png" crc="3985747339" ref="personaje-1-y-2"/>
+    <file name="u3284-10.png" crc="252457350" ref="personaje-1-y-2"/>
+    <file name="u3287-16.png" crc="4155208526" ref="personaje-1-y-2"/>
+    <file name="flechanegris.png" crc="432528695" ref="personaje-1-y-2:contraportada">
+      <caption webpage="personaje-1-y-2" alt=""/>
+      <caption webpage="contraportada" alt=""/>
+    </file>
+    <file name="u3278_states.png" crc="219299327" ref="personaje-1-y-2"/>
+    <file name="manchasangre-u3278_states-r.png" crc="4023649179" ref="personaje-1-y-2"/>
+    <file name="u3290_states.png" crc="239429949" ref="personaje-1-y-2"/>
+    <file name="manchasangre-u3290_states-r.png" crc="192895901" ref="personaje-1-y-2"/>
+    <file name="flechanegraderecha.png" crc="4199326449" ref="personaje-1-y-2">
+      <caption webpage="personaje-1-y-2" alt=""/>
+    </file>
+    <file name="personajes1-2-100.jpg" crc="3950094377" ref="personaje-1-y-2">
+      <caption webpage="personaje-1-y-2" alt=""/>
+    </file>
+    <file name="u3325-4.png" crc="113248164" ref="personaje-3-y-4"/>
+    <file name="p_michael.png" crc="202565832" ref="personaje-3-y-4">
+      <caption webpage="personaje-3-y-4" alt=""/>
+    </file>
+    <file name="u3328-4.png" crc="4062773852" ref="personaje-3-y-4"/>
+    <file name="u3330-19.png" crc="164206432" ref="personaje-3-y-4"/>
+    <file name="u3331-21.png" crc="397798268" ref="personaje-3-y-4"/>
+    <file name="u3329_states.png" crc="224047556" ref="personaje-3-y-4"/>
+    <file name="manchasangre-u3329_states-r.png" crc="274521435" ref="personaje-3-y-4"/>
+    <file name="u3332_states.png" crc="253356048" ref="personaje-3-y-4"/>
+    <file name="manchasangre-u3332_states-r.png" crc="320413361" ref="personaje-3-y-4"/>
+    <file name="perjs3-4-100.jpg" crc="259277010" ref="personaje-3-y-4">
+      <caption webpage="personaje-3-y-4" alt=""/>
+    </file>
+    <file name="u3572_states.png" crc="506695741" ref="contraportada"/>
+    <file name="u3572_states-r.png" crc="257867818" ref="contraportada"/>
+    <file name="asset 50-100.jpg" crc="531649494" ref="contraportada">
+      <caption webpage="contraportada" alt=""/>
+    </file>
+    <file name="u469.png" crc="187387415" ref="indice"/>
+    <file name="u469-a.png" crc="187387415" ref="indice"/>
+    <file name="u472.png" crc="3781766851" ref="indice"/>
+    <file name="u472-a.png" crc="3781766851" ref="indice"/>
+    <file name="u476.png" crc="4274338846" ref="indice"/>
+    <file name="u476-a.png" crc="4274338846" ref="indice"/>
+    <file name="gliiiiiiiiiiiiiiiiiiich.png" crc="4231364802" ref="indice">
+      <caption webpage="indice" alt=""/>
+      <caption webpage="indice" alt=""/>
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="u462_states.png" crc="309844992" ref="indice"/>
+    <file name="manchoooota-de-sangre-u462_states-r.png" crc="393549915" ref="indice"/>
+    <file name="u765_states.png" crc="4263049280" ref="indice"/>
+    <file name="manchoooota-de-sangre-u765_states-r.png" crc="400049236" ref="indice"/>
+    <file name="mama-maldicion.png" crc="158352563" ref="indice">
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="hijo-maldicion.png" crc="4115850722" ref="indice">
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="u642_states.png" crc="4273004398" ref="indice"/>
+    <file name="manchasangre-u642_states-r.png" crc="3969693005" ref="indice"/>
+    <file name="u641_states.png" crc="3977685976" ref="indice"/>
+    <file name="manchasangre-u641_states-r.png" crc="475516186" ref="indice"/>
+    <file name="peliculasdeterror2222.png" crc="4002802855" ref="indice">
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="u639_states.png" crc="3973441825" ref="indice"/>
+    <file name="manchasangre-u639_states-r.png" crc="3758404007" ref="indice"/>
+    <file name="u638_states.png" crc="378763166" ref="indice"/>
+    <file name="manchasangre-u638_states-r.png" crc="105750895" ref="indice"/>
+    <file name="u640_states.png" crc="184710856" ref="indice"/>
+    <file name="manchasangre-u640_states-r.png" crc="4220590039" ref="indice"/>
+    <file name="u781_states.png" crc="4124413453" ref="indice"/>
+    <file name="manchasangre-u781_states-r.png" crc="4176650175" ref="indice"/>
+    <file name="personajes-de-terror20.jpg" crc="516061520" ref="indice">
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="u780_states.png" crc="320182974" ref="indice"/>
+    <file name="manchasangre-u780_states-r.png" crc="4042002877" ref="indice"/>
+    <file name="u779_states.png" crc="478281106" ref="indice"/>
+    <file name="manchasangre-u779_states-r.png" crc="3906049674" ref="indice"/>
+    <file name="u778_states.png" crc="463662732" ref="indice"/>
+    <file name="manchasangre-u778_states-r.png" crc="139316389" ref="indice"/>
+    <file name="u782_states.png" crc="4084790576" ref="indice"/>
+    <file name="manchasangre-u782_states-r.png" crc="176923498" ref="indice"/>
+    <file name="mano-izquierda.png" crc="4134610378" ref="indice">
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="manoderecha.png" crc="3799442614" ref="indice">
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="indice20000-100.jpg" crc="80554902" ref="indice">
+      <caption webpage="indice" alt=""/>
+    </file>
+    <file name="pelic3-100.jpg" crc="222318358" seo="true" ref="películas-3-5">
+      <caption webpage="películas-3-5" alt=""/>
+    </file>
+    <file name="pelic4-100.jpg" crc="3809585491" seo="true" ref="películas-3-5">
+      <caption webpage="películas-3-5" alt=""/>
+    </file>
+    <file name="pelic5-100.jpg" crc="135978563" seo="true" ref="películas-3-5">
+      <caption webpage="películas-3-5" alt=""/>
+    </file>
+    <file name="u3390-4.png" crc="3853442478" ref="personaje-5-y-frases"/>
+    <file name="payasomalo.png" crc="231035589" ref="personaje-5-y-frases">
+      <caption webpage="personaje-5-y-frases" alt=""/>
+    </file>
+    <file name="u3393-14.png" crc="3812077869" ref="personaje-5-y-frases"/>
+    <file name="u4153-6.png" crc="3885424541" ref="personaje-5-y-frases"/>
+    <file name="u3524-10.png" crc="4236235196" ref="personaje-5-y-frases"/>
+    <file name="u3392.png" crc="448963281" ref="personaje-5-y-frases"/>
+    <file name="mancharoja-u3392-r.png" crc="4042260058" ref="personaje-5-y-frases"/>
+    <file name="u3404.png" crc="3910148582" ref="personaje-5-y-frases"/>
+    <file name="u3404-r.png" crc="3908874008" ref="personaje-5-y-frases"/>
+    <file name="u3404-m.png" crc="3908874008" ref="personaje-5-y-frases"/>
+    <file name="u3404-a.png" crc="48716116" ref="personaje-5-y-frases"/>
+    <file name="u3406-4.png" crc="3795665846" ref="personaje-5-y-frases"/>
+    <file name="u3412.png" crc="233981217" ref="personaje-5-y-frases"/>
+    <file name="u3412-r.png" crc="3931328931" ref="personaje-5-y-frases"/>
+    <file name="u3412-m.png" crc="3931328931" ref="personaje-5-y-frases"/>
+    <file name="u3412-a.png" crc="3923474538" ref="personaje-5-y-frases"/>
+    <file name="u3414-4.png" crc="135795984" ref="personaje-5-y-frases"/>
+    <file name="u3408.png" crc="6319641" ref="personaje-5-y-frases"/>
+    <file name="u3408-r.png" crc="3855654262" ref="personaje-5-y-frases"/>
+    <file name="u3408-m.png" crc="3855654262" ref="personaje-5-y-frases"/>
+    <file name="u3408-a.png" crc="3960164796" ref="personaje-5-y-frases"/>
+    <file name="u3410-4.png" crc="3852567454" ref="personaje-5-y-frases"/>
+    <file name="u3466.png" crc="4085196453" ref="personaje-5-y-frases"/>
+    <file name="u3466-r.png" crc="483257632" ref="personaje-5-y-frases"/>
+    <file name="u3466-m.png" crc="483257632" ref="personaje-5-y-frases"/>
+    <file name="u3466-a.png" crc="4137519604" ref="personaje-5-y-frases"/>
+    <file name="u3488-4.png" crc="3951447732" ref="personaje-5-y-frases"/>
+    <file name="u3477.png" crc="329831958" ref="personaje-5-y-frases"/>
+    <file name="u3477-r.png" crc="4198947686" ref="personaje-5-y-frases"/>
+    <file name="u3477-m.png" crc="4198947686" ref="personaje-5-y-frases"/>
+    <file name="u3477-a.png" crc="435353927" ref="personaje-5-y-frases"/>
+    <file name="u3491-4.png" crc="276835798" ref="personaje-5-y-frases"/>
+    <file name="personaje 5-100.jpg" crc="4063358466" ref="personaje-5-y-frases">
+      <caption webpage="personaje-5-y-frases" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="94107330" seo="true" mt="1686781887885" redirect="true"/>
+  <file name="5-películas-de-terror.html" crc="3903348563" seo="true" mt="1686775260037" redirect="true"/>
+  <file name="pelicula-1-2.html" crc="532963622" seo="true" mt="1686775385299" redirect="true"/>
+  <file name="5-personajes-de-terror.html" crc="414456859" seo="true" mt="1686775247293" redirect="true"/>
+  <file name="personaje-1-y-2.html" crc="4200486235" seo="true" mt="1686775502035" redirect="true"/>
+  <file name="personaje-3-y-4.html" crc="4257596201" seo="true" mt="1686775492860" redirect="true"/>
+  <file name="contraportada.html" crc="280854011" seo="true" mt="1686774161582" redirect="true"/>
+  <file name="indice.html" crc="3998393086" seo="true" mt="1686776461496" redirect="true"/>
+  <file name="películas-3-5.html" crc="202630587" seo="true" mt="1686773792625" redirect="true"/>
+  <file name="personaje-5-y-frases.html" crc="430111904" seo="true" mt="1686775744332" redirect="true"/>
+</manifest>
