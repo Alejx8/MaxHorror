@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maxhorror.com" resolutions="1x" timestamp="1686781894018">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="maxhorror.com" resolutions="1x" timestamp="1686783935054">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_f-p_g_-maestra.css" crc="4252948347" ref="5-personajes-de-terror"/>
@@ -265,7 +265,7 @@
       <caption webpage="personaje-5-y-frases" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="94107330" seo="true" mt="1686781887885" redirect="true"/>
+  <file name="index.html" crc="94107330" seo="true" mt="1686783929383" redirect="true"/>
   <file name="5-películas-de-terror.html" crc="3903348563" seo="true" mt="1686775260037" redirect="true"/>
   <file name="pelicula-1-2.html" crc="532963622" seo="true" mt="1686775385299" redirect="true"/>
   <file name="5-personajes-de-terror.html" crc="414456859" seo="true" mt="1686775247293" redirect="true"/>
